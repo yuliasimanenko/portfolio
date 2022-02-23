@@ -1,2 +1,3 @@
-# portfolio
-repo with done ITMO web tasks 
+# Портфолио
+## Автор: Симаненко Юлия
+## Список лабораторных работ
